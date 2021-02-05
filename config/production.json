@@ -1,5 +1,0 @@
-{
-	"mongoURI": "mongodb+srv://admin:y8045640@devconnect.fgglc.mongodb.net/DevConnect",
-	"jwtSecret": "MySecret",
-	"githubtoken": "e494c85af79be27e382b47f0827058a115c9c646"
-}
